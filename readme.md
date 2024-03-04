@@ -17,13 +17,13 @@ O presente trabalho tem como objetivo apresentar o protótipo de um sistema para
 
 ## telas ##
 
-**login** Mostra ao usuário a opção de fazer LogIn ou um novo cadastro.
-**opcao** Mostra ao usuário já logado a opção de manipulação dos registros. Incluir, consultar, alterar ou excluir. 
-**categoria** Mostra ao usuário as opções de categorias do registro. Pesso Física, Pessoa jurídica, Professor, Fornecedor e Aluno
-**cadpf** tela com formulário para preenchimento de registro de pessoa física.
-**cadpj** tela com formulário para preenchimento de registro de pessoa jurídica.
-**cadprof** tela com formulário para preenchimento de registro de professor.
-**cadforn** tela com formulário para preenchimento de registro de fornecedor.
-**cadaluno** tela com formulário para preenchimento de registro de aluno.
+**login** Mostra ao usuário a opção de fazer LogIn ou um novo cadastro.<br>
+**opcao** Mostra ao usuário já logado a opção de manipulação dos registros. Incluir, consultar, alterar ou excluir.<br> 
+**categoria** Mostra ao usuário as opções de categorias do registro. Pesso Física, Pessoa jurídica, Professor, Fornecedor e Aluno.<br>
+**cadpf** tela com formulário para preenchimento de registro de pessoa física.<br>
+**cadpj** tela com formulário para preenchimento de registro de pessoa jurídica.<br>
+**cadprof** tela com formulário para preenchimento de registro de professor.<br>
+**cadforn** tela com formulário para preenchimento de registro de fornecedor.<br>
+**cadaluno** tela com formulário para preenchimento de registro de aluno.<br>
 
 
