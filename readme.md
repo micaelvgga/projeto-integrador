@@ -15,7 +15,7 @@ Entrega da segunda Etapa do trabalho Projeto integrador III do SENAC, Grupo 11.
 
 O presente trabalho tem como objetivo apresentar o protótipo de um sistema para cadastro de diferentes tipos de pessoas em uma grande universidade.
 
-## telas ##
+## Telas ##
 
 **login** - Mostra ao usuário a opção de fazer LogIn ou um novo cadastro.<br>
 **opcao** - Mostra ao usuário já logado a opção de manipulação dos registros. Incluir, consultar, alterar ou excluir.<br> 
@@ -25,5 +25,9 @@ O presente trabalho tem como objetivo apresentar o protótipo de um sistema para
 **cadprof** - tela com formulário para preenchimento de registro de professor.<br>
 **cadforn** - tela com formulário para preenchimento de registro de fornecedor.<br>
 **cadaluno** - tela com formulário para preenchimento de registro de aluno.<br>
+
+## Diagrama de Classes
+
+![Diagrama de Classes]()
 
 
