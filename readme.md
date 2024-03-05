@@ -42,4 +42,9 @@ O presente trabalho tem como objetivo apresentar o protótipo da interface de um
 
 ## Telas no Figma
 
-![Figura_03_Tela_do_Figma](https://github.com/micaelvgga/projeto-integrador/assets/162224859/a70c6cfd-a0ad-4242-a099-0e77f202cd6f)
+![Figura_03_Tela_do_Figma](https://github.com/micaelvgga/projeto-integrador/assets/162224859/a70c6cfd-a0ad-4242-a099-0e77f202cd6f) 
+
+## Endereço das telas no Figma
+
+https://www.figma.com/file/cmqEQoQIfxizhMXI3Qd0Le/Projeto-Inegrador---Interface?type=design&node-id=0%3A1&mode=design&t=Ch164ZdNLnXy9GGB-1
+ 
