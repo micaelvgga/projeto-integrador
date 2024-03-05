@@ -32,9 +32,11 @@ O presente trabalho tem como objetivo apresentar o protótipo da interface de um
 **cadforn** - tela com formulário para preenchimento de registro de fornecedor.<br>
 **cadaluno** - tela com formulário para preenchimento de registro de aluno.<br>
 
-## Diagrama de Classes
+## Diagrama de Caso de Uso
 
 ![Figura_01_Diagrama_de_Classes](https://github.com/micaelvgga/projeto-integrador/assets/162224859/cad48ed9-46ca-4a9d-b83f-4604b68a788a)
+
+## Diagrama de Classe
 
 ![Figura_02_Diagrama_de_Classes](https://github.com/micaelvgga/projeto-integrador/assets/162224859/35a2e050-f6e4-43da-9392-acbcc2e67449)
 
