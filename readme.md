@@ -19,7 +19,7 @@ Entrega da segunda Etapa do trabalho Projeto integrador III do SENAC, Grupo 11.
 
 ## Objetivo
 
-O presente trabalho tem como objetivo apresentar o protótipo de um sistema para cadastro de diferentes tipos de pessoas em uma grande universidade.
+O presente trabalho tem como objetivo apresentar o protótipo da interface de um sistema para cadastro de diferentes tipos de pessoas em uma grande universidade.
 
 ## Telas ##
 
