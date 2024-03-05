@@ -28,6 +28,6 @@ O presente trabalho tem como objetivo apresentar o protótipo de um sistema para
 
 ## Diagrama de Classes
 
-![Diagrama de Classes]()
+![Diagrama de Classes] ("C:\Users\uemur\Desktop\Figura_01_Diagrama_de_Classes.png"")
 
 
