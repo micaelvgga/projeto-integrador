@@ -30,4 +30,5 @@ O presente trabalho tem como objetivo apresentar o protótipo de um sistema para
 
 ![Figura_01_Diagrama_de_Classes](https://github.com/micaelvgga/projeto-integrador/assets/162224859/cad48ed9-46ca-4a9d-b83f-4604b68a788a)
 
+![Figura_02_Diagrama_de_Classes](https://github.com/micaelvgga/projeto-integrador/assets/162224859/35a2e050-f6e4-43da-9392-acbcc2e67449)
 
