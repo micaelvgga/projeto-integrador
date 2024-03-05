@@ -28,6 +28,6 @@ O presente trabalho tem como objetivo apresentar o protótipo de um sistema para
 
 ## Diagrama de Classes
 
-![Diagrama de Classes] ("C:\Users\uemur\Desktop\Figura_01_Diagrama_de_Classes.png"")
+![Figura_01_Diagrama_de_Classes](https://github.com/micaelvgga/projeto-integrador/assets/162224859/cad48ed9-46ca-4a9d-b83f-4604b68a788a)
 
 
