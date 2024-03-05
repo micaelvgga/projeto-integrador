@@ -32,3 +32,6 @@ O presente trabalho tem como objetivo apresentar o protótipo de um sistema para
 
 ![Figura_02_Diagrama_de_Classes](https://github.com/micaelvgga/projeto-integrador/assets/162224859/35a2e050-f6e4-43da-9392-acbcc2e67449)
 
+## Telas no Figma
+
+![Figura_03_Tela_do_Figma](https://github.com/micaelvgga/projeto-integrador/assets/162224859/a70c6cfd-a0ad-4242-a099-0e77f202cd6f)
