@@ -1,4 +1,10 @@
-# Projeto Integrador III, SENAC
+# SERVIÇO NACIONAL DE APRENDIZAGEM COMERCIAL - SENAC
+# Curso de Tecnologia em Análise e Desenvolvimento de Sistemas
+# Disciplina: Projeto Integrador III
+# DESENVOLVIMENTO DE SISTEMAS ORIENTADO A OBJETOS
+
+## Professor
+Enoque Felipe dos Santos Leal
 
 ## Descrição
 Entrega da segunda Etapa do trabalho Projeto integrador III do SENAC, Grupo 11.
