@@ -23,14 +23,16 @@ O presente trabalho tem como objetivo apresentar o protótipo da interface de um
 
 ## Telas ##
 
-**login** - Mostra ao usuário a opção de fazer LogIn ou um novo cadastro.<br>
+**login** - Mostra ao usuário a opção de fazer LogIn.<br>
 **opcao** - Mostra ao usuário já logado a opção de manipulação dos registros. Incluir, consultar, alterar ou excluir.<br> 
-**categoria** - Mostra ao usuário as opções de categorias do registro. Pesso Física, Pessoa jurídica, Professor, Fornecedor e Aluno.<br>
+**categoria** - Mostra ao usuário as opções de categorias do registro. Pessoa Física, Pessoa jurídica, Professor, Fornecedor e Aluno.<br>
 **cadpf** - tela com formulário para preenchimento de registro de pessoa física.<br>
 **cadpj** - tela com formulário para preenchimento de registro de pessoa jurídica.<br>
 **cadprof** - tela com formulário para preenchimento de registro de professor.<br>
 **cadforn** - tela com formulário para preenchimento de registro de fornecedor.<br>
 **cadaluno** - tela com formulário para preenchimento de registro de aluno.<br>
+**consult** - tela para consulta de registro através do código, cpf/cnpj ou nome. <br>
+**alterar** - tela para alterar registro pesquisando pelo código, cpf/cnpj ou nome. <br>
 
 ## Diagrama de Caso de Uso
 
