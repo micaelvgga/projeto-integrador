@@ -21,7 +21,7 @@ Entrega da segunda Etapa do trabalho Projeto integrador III do SENAC, Grupo 11.
 
 O presente trabalho tem como objetivo apresentar o protótipo da interface de um sistema para cadastro de diferentes tipos de pessoas em uma grande universidade.
 
-## Telas ##
+## Função da Telas ##
 
 **login** - Mostra ao usuário a opção de fazer LogIn.<br>
 **opcao** - Mostra ao usuário já logado a opção de manipulação dos registros. Incluir, consultar, alterar ou excluir.<br> 
