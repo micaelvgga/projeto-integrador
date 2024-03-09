@@ -50,4 +50,18 @@ O presente trabalho tem como objetivo apresentar o protótipo da interface de um
 ## Endereço das telas no Figma
 
 https://www.figma.com/file/cmqEQoQIfxizhMXI3Qd0Le/Projeto-Inegrador---Interface?type=design&node-id=0%3A1&mode=design&t=Ch164ZdNLnXy9GGB-1
+
+## REFERÊNCIAS 
+LEAL, Enoque. Instalando o Git no windows. Youtube, 28 de fevereiro de 2023. 4min54s. Disponível em: <https://www.youtube.com/watch?v=IL9SfHX8yPs>. Acesso em: 01 de março de 2024.
+
+LEAL, Enoque. Criando o seu primeiro repositório Git. Youtube, 28 de fevereiro de 2023. 18min42s. Disponível em: <https://www.youtube.com/watch?v=PuKeVdYDrts&list=PLTvz5BxNW3mxB42qXkmYmDpMicYkbKNZv&index=4>. Acesso em: 01 de março de 2024.
+
+LEAL, Enoque. Criando uma conta no GitHub. Youtube, 12 de fevereiro de 2023. 3min49s. Disponível em: <https://www.youtube.com/watch?v=gQoRmte7wXA&list=PLTvz5BxNW3mxB42qXkmYmDpMicYkbKNZv&index=3>. Acesso em: 01 de março de 2024.
+
+LEAL, Enoque. Enviando seu repositório Git para o GitHub. Youtube, 28 de fevereiro de 2023. 11min14s. Disponível em: <https://www.youtube.com/watch?v=6YQIWRyPxnk&list=PLTvz5BxNW3mxB42qXkmYmDpMicYkbKNZv&index=2>. Acesso em: 01 de março de 2024.
+
+LEAL, Enoque. Trabalhando com um repositório do GitHub existente. Youtube, 07 de março de 2023. 4min54s. Disponível em: <https://www.youtube.com/watch?v=va3b7h4MJ58&list=PLTvz5BxNW3mxB42qXkmYmDpMicYkbKNZv&index=1>. Acesso em: 01 de março de 2024.
+
+
+
  
