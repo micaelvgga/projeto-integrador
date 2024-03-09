@@ -33,6 +33,7 @@ O presente trabalho tem como objetivo apresentar o protótipo da interface de um
 **cadaluno** - tela com formulário para preenchimento de registro de aluno.<br>
 **consult** - tela para consulta de registro através do código, cpf/cnpj ou nome. <br>
 **alterar** - tela para alterar registro pesquisando pelo código, cpf/cnpj ou nome. <br>
+**excluir** - tela para excluir registro pesquisando pelo código, cpf/cnpj ou nome. <br>
 
 ## Diagrama de Caso de Uso
 
